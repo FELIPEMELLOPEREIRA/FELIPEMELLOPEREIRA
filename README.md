@@ -5,4 +5,4 @@ meu nome é felipe mello
 - estou me desenvolvendo em linguaguens no JavaScript
 - Utilizo este espaço para minha organização
 
-  ![image](https://github.com/FELIPEMELLOPEREIRA/FELIPEMELLOPEREIRA/assets/171043538/14c152ca-e658-4a6c-b92e-56e6ad38188c)
+- tambem estou utilizando o linkedin [www.linkedin.com/in/felipe-mello-pereira-8821b0313]
